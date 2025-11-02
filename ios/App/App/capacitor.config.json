@@ -1,0 +1,7 @@
+{
+	"appId": "com.lidlhelper",
+	"appName": "Lidl Helper",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"packageClassList": []
+}
